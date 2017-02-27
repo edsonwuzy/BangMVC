@@ -1,2 +1,0 @@
-# BangMVC
-BangMVC
